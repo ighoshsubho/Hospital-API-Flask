@@ -1,0 +1,22 @@
+# Python
+*.pyc
+__pycache__/
+
+# IDE
+.idea/
+
+# Virtual environment
+venv/
+
+# MongoDB
+*.log
+
+# Docker
+Dockerfile
+docker-compose.yml
+*.tar
+*.tar.gz
+*.pid
+
+# Other
+.env

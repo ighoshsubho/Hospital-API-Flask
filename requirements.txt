@@ -1,0 +1,9 @@
+flask
+flask-bcrypt
+flask-jwt-extended
+flask-pyMongo
+pytest
+pytest-cov
+mongomock
+python-dotenv
+flask-mongoengine
